@@ -1,4 +1,4 @@
-# De SnorBot
+# Dutch Crypto Talk
 Middelpunt van de "Conversational UI" van geensnor.nl. 
 
 Live te bewonderen op: [https://t.me/geensnorbot](https://t.me/geensnorbot)
