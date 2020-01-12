@@ -1,3 +1,3 @@
 <?php
-echo"SnorBot!";
+echo"DCT!";
 ?>
